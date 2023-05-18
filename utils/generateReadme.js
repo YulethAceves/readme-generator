@@ -60,7 +60,11 @@ Feel free to contact me regarding any questions concerned to the project at ${da
 
 function renderLicense(lic){
     return `
-For Details regarding all License please check this site
+![GitHub license](https://img.shields.io/badge/license-${lic}-purple.svg)
+
+#### For Details regarding all License please check this site
 [Open License](https://choosealicense.com/licenses/)
-    `
+ `
 }
+
+module.exports = generateReadme;

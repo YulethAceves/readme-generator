@@ -45,6 +45,9 @@ inquirer.prompt([
 },
 ]).then(response => {
     console.log(response)
+    fs.writeFileSync("README.md",generateReadme(response),function(err){
+        if(err) throw err;
+    })
 
 })
 } 
