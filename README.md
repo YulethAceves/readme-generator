@@ -10,6 +10,8 @@
     - [Screenshot](#screenshot)
     - [Installation](#installation)
     - [Credits](#credits)
+  - [Contact](#contact)
+  - [Website Link](#website-link)
     - [License](#license)
   
 ## Description
@@ -57,6 +59,13 @@ You must have Node.js and Inquirer installed locally. Clone the code, then begin
 * node.js
 * Inquirer
 * shields.io
+
+## Contact
+[Yuleth Aceves Github](https://github.com/YulethAceves)
+
+## Website Link
+
+https://github.com/YulethAceves/readme-generator
 
 ### License
 
