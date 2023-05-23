@@ -46,7 +46,7 @@ THEN I am taken to the corresponding section of the README
 
 ### Screenshot
 
-![screenshot]()
+![screenshot](./assets/images/Screenshot%202023-05-23%20at%2013.26.57.png)
 
 ### Installation
 
